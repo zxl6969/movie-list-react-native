@@ -1,0 +1,3 @@
+rootProject.name = 'zxlNative'
+
+include ':app'
