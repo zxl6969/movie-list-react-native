@@ -11,8 +11,8 @@ npm start
 然后安装到手机上或者模拟器 即可；
 
 # 效果图
-![](https://github.com/zxl6969/movie-list-react-native/src/image/1.png)
 
+![](https://github.com/zxl6969/movie-list-react-native/raw/master/image/1.png)
 
 ![](https://github.com/zxl6969/movie-list-react-native/src/image/2.png)
 
